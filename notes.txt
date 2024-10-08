@@ -36,6 +36,7 @@ git commandok
     git commit -m "valami uzenet": a "pillanatkép" (=commit) elkészítése adott kis rövid üzenettel kiegészítve
     git log: commitok kilistázása minden adattal együtt
     git log --all --decorate --oneline --graph
+    git commit --amend: legutolsó (nem pusholt) commit üzenet módosítása
 
 fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
 

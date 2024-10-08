@@ -1,0 +1,4 @@
+git verziókövetés segítségével valósítsa meg a következőket:
+- egy sima txt fájlba vigyen fel dolgokat pl. bevásárló lista jelleggel
+- ezeket adott időközönként (pl. amikor egy kategóriába összegyűlt minden elem (pl. minden zöldséget felírt)) commit formájában "mentse el"
+- legyen 4-5 db kategória minimum, bennük 3-5 bevásárlandó elemmel
