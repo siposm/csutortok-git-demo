@@ -1,8 +1,8 @@
 console.log('Welcome to my program!')
 
-let number = 5
+let number = Math.floor(Math.random() * 100)
 
-if (number < 10) {
+if (number < 50) {
     for (let i = 0; i < 10; i++) {
         console.log(i+1 + ' hello')
     }
