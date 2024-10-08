@@ -23,3 +23,12 @@ fájl állapotok a git alapján:
     track: a git figyeli a fájlt
     modified: valami módosítva lett
     staged: valami hozzáadásra került, kommitolásra vár
+
+git commandok
+    git init: repository inicializálása
+    git status: státusz lekérdezése (fájl állapotok stb.)
+    git add: adott fájl stagelése (commitolás előtt)
+        git add * (minden fájl)
+        git add . (minden fájl)
+        git add xy.txt
+    git commit -m "valami uzenet": a "pillanatkép" (=commit) elkészítése adott kis rövid üzenettel kiegészítve
