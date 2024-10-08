@@ -18,4 +18,8 @@ https://git-scm.com/downloads/win
 git => maga a verziókezelésre/követésre szolgáló program
 git bash => linux terminál "emulátor"
 
-Ez most egy új sor, amit hozzáírok ehhez a fájlhoz.
+fájl állapotok a git alapján:
+    untracked: a git (=verziókövető) nem figyeli még a fájlt
+    track: a git figyeli a fájlt
+    modified: valami módosítva lett
+    staged: valami hozzáadásra került, kommitolásra vár
