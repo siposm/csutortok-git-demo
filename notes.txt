@@ -37,6 +37,7 @@ git commandok
     git log: commitok kilistázása minden adattal együtt
     git log --all --decorate --oneline --graph
     git commit --amend: legutolsó (nem pusholt) commit üzenet módosítása
+    git checkout <commid_id>: adott id-jú commit-ra történő visszaállás
 
 fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
 
