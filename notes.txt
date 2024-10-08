@@ -15,6 +15,7 @@ SCRUM team
 
 https://git-scm.com/downloads/win
 
-git --> maga a verziókezelésre/követésre szolgáló program
+git => maga a verziókezelésre/követésre szolgáló program
+git bash => linux terminál "emulátor"
 
-git bash --> linux terminál "emulátor"
+Ez most egy új sor, amit hozzáírok ehhez a fájlhoz.
