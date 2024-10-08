@@ -18,6 +18,7 @@ https://git-scm.com/downloads/win
 
 git => maga a verziókezelésre/követésre szolgáló program
 git bash => linux terminál "emulátor"
+git gui => valamilyen grafikus felhasználói felülettel rendelkező program
 
 fájl állapotok a git alapján:
     untracked: a git (=verziókövető) nem figyeli még a fájlt
@@ -35,3 +36,7 @@ git commandok
     git commit -m "valami uzenet": a "pillanatkép" (=commit) elkészítése adott kis rövid üzenettel kiegészítve
     git log: commitok kilistázása minden adattal együtt
     git log --all --decorate --oneline --graph
+
+fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
+
+"commit small, commit often" elv alkalmazása
