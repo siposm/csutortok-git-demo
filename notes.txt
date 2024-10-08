@@ -2,14 +2,15 @@ fejlesztés csapatban történik
 
 SCRUM team
     developer team
-        senior
-        medior
-        junior
-        ----
-        frontend
-        backend
-        fullstack (fe + be)
-        tester
+        'A' kategorizálás:
+            senior
+            medior
+            junior
+        'B' kategorizálás:
+            frontend
+            backend
+            fullstack (fe + be)
+            tester
     scrum master
     product owner
 
@@ -32,3 +33,5 @@ git commandok
         git add . (minden fájl)
         git add xy.txt
     git commit -m "valami uzenet": a "pillanatkép" (=commit) elkészítése adott kis rövid üzenettel kiegészítve
+    git log: commitok kilistázása minden adattal együtt
+    git log --all --decorate --oneline --graph
