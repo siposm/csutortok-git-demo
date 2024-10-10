@@ -9,3 +9,7 @@
 2 jozsivagyok
 3 jozsivagyok
 4 jozsivagyok
+
+x
+y
+z
