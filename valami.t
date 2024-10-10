@@ -1,6 +1,11 @@
-jozsi voltam itt is, sziasztok!
 1 siposmiklos modositasok
 2 siposmiklos modositasok
 3 siposmiklos modositasok
+
 :)
-siposmiklos
+:)
+
+1 jozsivagyok
+2 jozsivagyok
+3 jozsivagyok
+4 jozsivagyok
