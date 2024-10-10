@@ -9,3 +9,5 @@ if (number < 50) {
 } else {
     console.log('The number is bigger then 10! =(')
 }
+
+console.log('Sziasztok, Jozsi voltam! :)')
