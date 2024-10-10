@@ -38,6 +38,11 @@ git commandok
     git log --all --decorate --oneline --graph
     git commit --amend: legutolsó (nem pusholt) commit üzenet módosítása
     git checkout <commid_id>: adott id-jú commit-ra történő visszaállás
+    git clone git@github.com:siposm/csutortok-git-demo.git: adott url-ű repository leklónozása
+    git push: minden lecommitolt állapot/változás feltöltése a központi repóba
+    git pull: minden változás letöltése a központi repóból
+    git config --global user.name "FIRST_NAME LAST_NAME"
+    git config --global user.email "MY_NAME@example.com"
 
 fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
 
@@ -55,3 +60,7 @@ Verziókezelők:
 
 decentralizált vs centralizált
     git megvalósítja mind a két elvet
+
+git NEM EGYENLŐ github (/gitlab/bitbucket)
+
+
