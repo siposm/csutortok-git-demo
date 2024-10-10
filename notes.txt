@@ -42,3 +42,7 @@ git commandok
 fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
 
 "commit small, commit often" elv alkalmazása
+
+----------------------------------------------------
+
+build fájlok -> olyan fájlok amelyek a program(ok) futása során állnak elő

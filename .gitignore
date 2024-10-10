@@ -1,0 +1,11 @@
+# 1. konkrét fájl megadása
+# ids.xml
+# log.xml
+# managers.xml
+# employees.xls
+
+# 2. xy típusú fájlok megadása
+*.xml
+
+# 3. mappák megadása
+/docs
