@@ -46,3 +46,12 @@ fő branch ami alapból létrejön (~idővonal): master (vagy main) branch
 ----------------------------------------------------
 
 build fájlok -> olyan fájlok amelyek a program(ok) futása során állnak elő
+
+Verziókezelők:
+    Git
+    Microsoft TFS (team foundation server)
+    Mercurial
+    Subversion (Apache)
+
+decentralizált vs centralizált
+    git megvalósítja mind a két elvet
